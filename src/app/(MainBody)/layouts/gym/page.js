@@ -26,7 +26,7 @@ const Gym = () => {
   return (
     <div>
       <Head>
-        <title>Gym Layout </title>
+        <title>Farray Fitness </title>
       </Head>
       <Header className="gym nav-lg" />
       <BannerSection />
