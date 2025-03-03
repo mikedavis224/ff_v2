@@ -11,32 +11,36 @@ const Footer = () => (
                                 <h3 className="text-white">About Us</h3>
                             </div>
                             <div className="footer-contant">
-                                <img alt="" className="img-fluid footer-logo" src="/assets/images/logo/1.png" />
+                                <img alt="" className="img-fluid footer-logo" src="/assets/images/logo/ff-logo.png" />
                                 <div className="footer-para">
-                                    <h6 className="text-white para-address">Unice</h6>
-                                    <h6 className="text-white para-address">324 Madison Street New york City, </h6>
-                                    <h6 className="text-white para-address">NY 10001.</h6>
+                                    <h6 className="text-white para-address">Farray Fitness</h6>
+                                    <h6 className="text-white para-address">350 Northern Blvd STE 324-1226 </h6>
+                                    <h6 className="text-white para-address">Albany, NY 12204</h6>
+                                    <h6><a href="tel:+19176181629" className="hover:underline">
+              +1(917) 618-1629
+            </a></h6>
                                 </div>
                                 <ul className="d-flex footer-social social">
                                     <li className="footer-social-list">
-                                        <a href="https://www.facebook.com/">
+                                        <a href="https://www.facebook.com/people/Daniel-Farray/100075061168002/">
                                             <i aria-hidden="true" className="fa fa-facebook"></i>
                                         </a>
                                     </li>
                                     <li className="footer-social-list">
-                                        <a href="https://twitter.com/">
-                                            <i aria-hidden="true" className="fa fa-twitter"></i>
+                                        <a href="https://www.instagram.com/flash_fitness1433/">
+                                            <i aria-hidden="true" className="fa fa-instagram"></i>
                                         </a>
                                     </li>
                                     <li className="footer-social-list">
-                                        <a href="https://accounts.google.com/">
-                                            <i aria-hidden="true" className="fa fa-google"></i>
+                                        <a href="https://www.youtube.com/@flashfitness14/">
+                                            <i aria-hidden="true" className="fa fa-youtube"></i>
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                     </Col>
+                    {/* 
                     <Col lg="2" md="3" sm="12">
                         <div className="footer-title mobile-title">
                             <h3 className="text-white">services</h3>
@@ -139,6 +143,7 @@ const Footer = () => (
                             </div>
                         </div>
                     </Col>
+                    */}
                 </Row>
             </Container>
         </footer>
@@ -159,8 +164,8 @@ const Footer = () => (
                     </Col>
                     <Col sm="6">
                         <div>
-                            <h6 className="copyright-text text-white text-end op-text">Copyright © 2023 Unice by <i
-                                    aria-hidden="true" className="fa fa-heart"></i> pixelstrap</h6>
+                            <h6 className="copyright-text text-white text-end op-text">Copyright © 2025 Farray Fitness By <i
+                                    aria-hidden="true" className="fa fa-heart"></i> NugoTech</h6>
                         </div>
                     </Col>
                 </Row>

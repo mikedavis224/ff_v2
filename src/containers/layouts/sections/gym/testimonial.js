@@ -35,16 +35,14 @@ const Testimonial = () => (
                                 <img alt="" className="img-fluid m-auto" src="/assets/images/gym/testimonial/quote.png" />
                                 <div className="text-center testimonial-info">
                                     <p className="p-light testimonial-para">
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum
-                                        has been the industry's standard dummy text ever since the 1500s, when an unknown
-                                        printer took a galley of type and scrambled it to.
+                                    I’ve tried every workout plan under the sun, but nothing has ever worked as well as training with Farray Fitness. The one-on-one coaching has helped me build strength, stay motivated, and actually enjoy working out for the first time in my life. I feel stronger, healthier, and more confident than ever!"
+                                    
                                     </p>
                                     <div className="testimonial-name">
-                                        <h5 className="text-white name">Alan Lakor</h5>
+                                        <h5 className="text-white name">— Jessica M.</h5>
                                     </div>
                                     <div className="testimonial-post">
-                                        <h6 className="text-white post">CEO OF SC.</h6>
+                                        <h6 className="text-white post"> Queens, NY</h6>
                                     </div>
                                 </div>
                             </div>
@@ -54,16 +52,13 @@ const Testimonial = () => (
                                 <img alt="" className="img-fluid m-auto" src="/assets/images/gym/testimonial/quote.png" />
                                 <div className="text-center testimonial-info">
                                     <p className="p-light testimonial-para">
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum
-                                        has been the industry's standard dummy text ever since the 1500s, when an unknown
-                                        printer took a galley of type and scrambled it to.
+                                    I started with online coaching because of my busy schedule, and I was blown away by the level of support I received. My workouts were easy to follow, my trainer was always available for check-ins, and I started seeing results within weeks. Whether in-person or online, Farray Fitness is the real deal!"
                                     </p>
                                     <div className="testimonial-name">
-                                        <h5 className="text-white name">Alan Lakor</h5>
+                                        <h5 className="text-white name">David R</h5>
                                     </div>
                                     <div className="testimonial-post">
-                                        <h6 className="text-white post">CEO OF SC.</h6>
+                                        <h6 className="text-white post">CBrooklyn, NY</h6>
                                     </div>
                                 </div>
                             </div>

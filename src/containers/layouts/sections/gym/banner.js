@@ -24,24 +24,22 @@ const Banner = () => (
                                     <div className="center-text">
                                         <div className="text-center">
                                             <div className="header-text">
-                                                <h1><span className="bold-text">build your</span> body more strong</h1>
+                                                <h1><span className="bold-text">transform</span> your fitness journey</h1>
                                             </div>
                                             <div className="header-sub-text">
                                                 <p className="text-white p-light">
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                    industry.
-                                                    Lorem Ipsum has been the industry's standard dummy text ever since the
-                                                    1500s,
-                                                    when an unknown printer took.
+                                                Welcome to Farray Fitness, Queens’ premier destination for personal fitness training. Whether you're looking to shed pounds, build muscle, or simply live a healthier life, we’re here to help you every step of the way. Our expert trainers, tailored programs, and supportive environment ensure you achieve your goals and stay motivated.
                                                 </p>
                                             </div>
                                             <div className="link-horizontal">
                                                 <ul className="justify-content-center">
+                                                    {/* 
                                                     <li>
-                                                        <a className=" btn btn-default"><span>register 20%<sup>off</sup></span></a>
+                                                        <a className=" btn btn-default"><span>Free Consultation</span></a>
                                                     </li>
+                                                    */}
                                                     <li>
-                                                        <a className=" btn btn-default">start now</a>
+                                                        <a className=" btn btn-default" href="https://client.everfit.io/signup/i/CHK9743IZH" target="_blank">start now</a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -60,24 +58,23 @@ const Banner = () => (
                                     <div className="center-text">
                                         <div className="text-center">
                                             <div className="header-text">
-                                                <h1><span className="bold-text">build your</span> body more strong</h1>
+                                                <h1><span className="bold-text">your best self</span> starts here</h1>
                                             </div>
                                             <div className="header-sub-text">
                                                 <p className="text-white p-light">
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                    industry.
-                                                    Lorem Ipsum has been the industry's standard dummy text ever since the
-                                                    1500s,
-                                                    when an unknown printer took.
+                                                Ready to take the first step? Book your free consultation and discover how Farray Fitness can transform your health and fitness journey.
                                                 </p>
                                             </div>
                                             <div className="link-horizontal">
                                                 <ul className="justify-content-center">
+                                                    {/* 
                                                     <li>
+                                                        
                                                         <a className=" btn btn-default"><span>register 20%<sup>off</sup></span></a>
                                                     </li>
+                                                    */}
                                                     <li>
-                                                        <a className=" btn btn-default">start now</a>
+                                                        <a className=" btn btn-default">book now</a>
                                                     </li>
                                                 </ul>
                                             </div>

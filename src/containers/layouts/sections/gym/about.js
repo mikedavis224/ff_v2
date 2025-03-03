@@ -20,23 +20,23 @@ const About = () => (
                     <div className="center-text">
                         <div>
                             <div className="format-small-text">
-                                <h6 className="font-primary borders-before"><span>our progress</span></h6>
+                                <h6 className="font-primary borders-before"><span>about us</span></h6>
                             </div>
                             <div className="format-head-text">
-                                <h3 className="about-font-header gradient-text">about us</h3>
+                                <h3 className="about-font-header gradient-text">who we are </h3>
                             </div>
                             <div className="format-sub-text">
                                 <p className="p-light about-para">
-                                    Lorem Ipsum is simply dummy text of the printing andv typesetting industry. Lorem Ipsum
-                                    has
-                                    been the industry's standard dummy text ever since the 1500s.
+                                Farray Fitness is more than just a gym—we’re your partners in health, fitness, and personal growth. Based in Queens, NY, we specialize in creating tailored training experiences that empower clients to look and feel their best.
                                 </p>
-                                <p className="p-light about-para">
+                                {/*}
+                                <<p className="p-light about-para">
                                     When an unknown printer took a galley of type and scrambled it to make a type specimen
                                     book. Lorem
                                     Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
                                     been the industry.
-                                </p>
+                                </p> 
+                                */}
                             </div>
                             <a className="btn btn-default primary-btn" href="#">read more</a>
                         </div>
