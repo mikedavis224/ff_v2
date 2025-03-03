@@ -2766,6 +2766,7 @@ header {
     &.gym-header {
       background-image: url("/assets/images/gym/ff-hero.jpg");
       background-position: top;
+      background-color: rgba(0,0,0,0.5); /* Black background with opacity */
       h1 {
         text-align: center;
         text-transform: uppercase;
