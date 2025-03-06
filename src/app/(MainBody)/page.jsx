@@ -1,4 +1,6 @@
 // containers/landing/page.jsx
+"use client";  // Add this line to mark the component as client-side
+
 import React, { useEffect } from "react";
 
 // Import gym-related sections, excluding the ones you don't need
