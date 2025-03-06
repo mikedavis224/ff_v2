@@ -1,4 +1,6 @@
 // containers/landing/header.js
+"use client";  // Ensure it's marked as a client-side component
+
 import React, { Fragment, useState } from "react";
 import { Container, Row, Col } from "reactstrap";
 
@@ -22,7 +24,11 @@ const Header = () => {
                 </div>
                 <div className="main-menu m-x-auto" id="nav">
                   <nav className="navbar navbar-expand-lg navbar-light">
-                    <button className="navbar-toggler" type="button" onClick={toggleNav}>
+                    <button
+                      className="navbar-toggler"
+                      type="button"
+                      onClick={toggleNav}
+                    >
                       <span className="navbar-toggler-icon"></span>
                     </button>
                     <div className={`collapse navbar-collapse ${navbar ? "show" : ""}`} id="navbarNav">
