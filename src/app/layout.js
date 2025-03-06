@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="generator" content="mdx-docs" />
-        <title>Unice</title>
+        <title>Farray Fitness</title>
         <link rel="icon" href="/assets/images/logo/favicon.png" type="image/x-icon" />
         <link rel="shortcut icon" href="/assets/images/logo/favicon.png" type="image/x-icon" />
         <link href="https://fonts.googleapis.com/css?family=Capriola&amp;subset=latin-ext" rel="stylesheet" />

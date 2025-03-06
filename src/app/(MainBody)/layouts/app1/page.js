@@ -25,7 +25,7 @@ const App1 = () => {
   return (
     <div>
       <Head>
-        <title>Unice</title>
+        <title>Farray Fitness</title>
       </Head>
 
       <Header className="app1" />

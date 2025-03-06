@@ -6,12 +6,12 @@ import Header from "../../../../containers/common/header";
 import AboutSection from "../../../../containers/layouts/sections/gym/about";
 import BannerSection from "../../../../containers/layouts/sections/gym/banner";
 import BrandSection from "../../../../containers/layouts/sections/gym/brand";
-import CalculateSection from "../../../../containers/layouts/sections/gym/calculate";
-import CounterSection from "../../../../containers/layouts/sections/gym/counter";
+//import CalculateSection from "../../../../containers/layouts/sections/gym/calculate";
+//import CounterSection from "../../../../containers/layouts/sections/gym/counter";
 import FooterSection from "../../../../containers/layouts/sections/gym/footer";
 import FormatSection from "../../../../containers/layouts/sections/gym/format";
-import PricingSection from "../../../../containers/layouts/sections/gym/pricing";
-import ScheduleSection from "../../../../containers/layouts/sections/gym/schedule";
+//import PricingSection from "../../../../containers/layouts/sections/gym/pricing";
+//import ScheduleSection from "../../../../containers/layouts/sections/gym/schedule";
 import TestimonialSection from "../../../../containers/layouts/sections/gym/testimonial";
 import TrainerSection from "../../../../containers/layouts/sections/gym/trainer";
 
@@ -31,13 +31,13 @@ const Gym = () => {
       <Header className="gym nav-lg" />
       <BannerSection />
       <AboutSection />
-      <ScheduleSection />
+      
       <FormatSection />
-      <CounterSection />
+     
       <TrainerSection />
       <TestimonialSection />
-      <PricingSection />
-      <CalculateSection />
+     
+    
       <BrandSection />
       <FooterSection />
     </div>
