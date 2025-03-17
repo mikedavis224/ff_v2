@@ -2,6 +2,8 @@
 "use client";  // Add this line to mark the component as client-side
 
 import React, { useEffect } from "react";
+//import header and nav bar
+import Header from "../../containers/common/header";
 
 // Import gym-related sections, excluding the ones you don't need
 import GymBanner from "../../containers/layouts/sections/gym/banner";
